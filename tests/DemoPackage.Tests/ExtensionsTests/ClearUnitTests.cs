@@ -1,5 +1,4 @@
 ﻿using DemoPackage.Extensions;
-using FluentAssertions;
 using System.Text.RegularExpressions;
 
 namespace DemoPackage.Tests.ExtensionsTests;
